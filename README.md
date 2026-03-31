@@ -1,7 +1,6 @@
 # 🔒 Security Advisories Repository
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 This repository serves as a centralized archive for security advisories, vulnerability findings, and related research on software and applications. It provides a structured way to document, track, and share security issues discovered during research and assessments.
 
