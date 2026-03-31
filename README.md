@@ -8,9 +8,7 @@ This repository serves as a centralized archive for security advisories, vulnera
 
 - [Overview](#overview)
 - [Repository Structure](#repository-structure)
-- [Advisory Format](#advisory-format)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## 📖 Overview
@@ -40,15 +38,6 @@ security-advisories/
 - **[CVEs/](CVEs/)**: Contains detailed markdown files for each public CVE, following a standardized format.
 - **[Disputed/](Disputed/)**: Advisories for findings disputed by the vendor or client.
 - **[NoReply/](NoReply/)**: Findings pending client response.
-
-## 📄 Advisory Format
-
-Each advisory follows a consistent structure for clarity:
-
-- **Title**: Descriptive vulnerability title.
-- **Key Details**: CVE ID, product, component, root cause, attackers, impact, vector.
-- **Description**: Brief summary of the vulnerability.
-- **Mitigation**: Recommended fixes or workarounds.
 
 ## 🚀 Usage
 
